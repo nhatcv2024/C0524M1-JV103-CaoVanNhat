@@ -1,0 +1,13 @@
+BEGIN
+input a
+input b
+input c
+max = a
+if (b > max)
+	{max = b}
+	
+if (c > max)
+	{ max = c }
+	
+Dislay max la:
+End

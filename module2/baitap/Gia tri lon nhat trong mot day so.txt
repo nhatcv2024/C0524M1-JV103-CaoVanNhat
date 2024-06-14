@@ -1,0 +1,15 @@
+BEGIN
+input N(a1,a2, a3, ...an) (i <=n)
+max = a1;
+i=2
+ WHILE (i =< n)
+  DO {
+		if (ai > max ) then
+			max= ai
+		end if			
+		i =i +1 
+     }
+ END DO
+ Display "gia tri lon nhat max:"
+ 
+END

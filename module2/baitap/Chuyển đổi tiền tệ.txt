@@ -1,0 +1,5 @@
+Begin
+input dola
+vnd=23000*dola
+Display "so tien vnd:"
+END

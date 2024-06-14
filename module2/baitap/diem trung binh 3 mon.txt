@@ -1,0 +1,9 @@
+begin
+input Math
+input Plysics
+input Chemistry
+Average = (Math + Plysics + Chemistry)/3
+Display "Diem trung binh 3 mon la: "
+end
+
+
